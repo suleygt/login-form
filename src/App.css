@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.polygon-left {
+  width: auto; 
+  height: auto; 
+  position: absolute;
+  left: 200px; 
+  top: 34px; 
+  max-width: 50%; 
+  max-height: 51vh; 
+  background-color: rgba(51, 58, 126, 0.26);
+}
+
+.polygon-right {
+  width: auto; 
+  height: auto; 
+  position: absolute;
+  left: 1000px;
+  top: 34px; 
+  max-width: 60%; 
+  max-height: 51vh; 
+  background-color: rgba(51, 58, 126, 0.26);
+
+}
+
+form {
+  max-width: 100%;
+  background-color: rgba(51, 58, 126, 0.26);
+  height: 443px;
+  background-color: rgba(0, 0, 128);
+}
+
+h2 {
+  font-size:  40px;
+  text-align: center;
+}
+.username {
+  width: 200px;
+  padding: 5px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.password {
+  width: 200px;
+  padding: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.logın-button {
+  width: 100px;
+ padding: 2px; 
+ text-align: center;
+}
